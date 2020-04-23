@@ -5,7 +5,8 @@ En este repositorio se entrena una red convolucional para la clasificación de a
 El conjunto de datos utilizado contiene 65.000 archivos con 176 idiomas y esta disponible para descargar enla pagína de competiciones 
 TopCoder (https://goo.gl/G5XBJl).
 
-##Problemas con librosa
+## Problemas con librosa
+
 Despues de instalar librosa en un ambiente anaconda es posible que se presenten algunos problemas para cargar archivos o incluso
 para importar la libreria algunos de ellos son:
 
