@@ -11,7 +11,9 @@ Despues de instalar librosa en un ambiente anaconda es posible que se presenten 
 para importar la libreria algunos de ellos son:
 
 1 -> problemas relacionados con scipy
-la solucion es usar pip install scipy e instalarlo de nuevo con pip install scipy
+la solucion es desinstalarlo usando pip 
+pip uninstall scipy 
+e instalarlo de nuevo con pip install scipy
 
 2 -> problema relacionado con el metodo load de librosa.
 Si se usa un ambiente anaconda en windows es necesario instalar ffmpeg para poder cargar archivos mp3
